@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "40229176171",
+    "firebase_url": "https://testproject-f452a-default-rtdb.firebaseio.com",
+    "project_id": "testproject-f452a",
+    "storage_bucket": "testproject-f452a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40229176171:android:98095c93b278e20628022e",
+        "android_client_info": {
+          "package_name": "com.johnreytamondong.recordattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAov8CAFYLPSz1ucIsZ6hmPJ1TA9vHrrWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
